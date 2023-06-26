@@ -1,0 +1,5 @@
+so before running the application,make sure you install node.js and is running correctly.
+once done make sure you have necessory modules regarding this.
+let me assume you have all the necessory modules try running node server.js in the terminal so you can run it on a local server.
+and now replace the open ai api key place holder with your actual api key so you can get responces from it.
+once done then open index.html in a browser and start talking or asking.
